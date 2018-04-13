@@ -9,7 +9,7 @@
 	<includeBaseDirectory>false</includeBaseDirectory>
 	<fileSets>
 		<fileSet>
-			<directory>E:\\project\\faceye-boot-util\\target/classes</directory>
+			<directory>/work/project/faceye-boot-util/target/classes</directory>
 			<!-- <includes> <include>**</include> </includes> -->
 			<excludes>
 				<exclude>**/assembly/*.*</exclude>
@@ -22,14 +22,14 @@
 			<outputDirectory>/</outputDirectory>
 		</fileSet>
 		<fileSet>
-			<directory>E:\\project\\faceye-boot-util\\target/test-classes</directory>
+			<directory>/work/project/faceye-boot-util/target/test-classes</directory>
 			<includes>
 				<include>**</include>
 			</includes>
 			<outputDirectory>/</outputDirectory>
 		</fileSet>
 		<fileSet>
-			<directory>E:\\project\\faceye-boot-util\\target/generated-sources</directory>
+			<directory>/work/project/faceye-boot-util/target/generated-sources</directory>
 			<includes>
 				<include>**</include>
 			</includes>
